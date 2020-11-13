@@ -1,0 +1,9 @@
+#Test file(s)
+*.txt
+
+#Output Files/Folders
+out/
+
+#IntelliJ
+.idea/
+*.iml
